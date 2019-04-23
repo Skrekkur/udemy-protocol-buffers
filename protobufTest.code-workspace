@@ -9,6 +9,7 @@
 			"path": "c:/users/aevar/programs/protoc/bin/protoc.exe",
 			"options": [
 				"--proto_path=${workspaceFolder}/proto",
+				"--proto_path=${workspaceFolder}/protoTest",
 				"--python_out=gen/python"
 			]
 		}
